@@ -1,0 +1,44 @@
+.tarjeta {
+  background-color: grey;
+  border-radius: 10px;
+  padding: 10px;
+  color: blue;
+}
+
+.tarjeta .fa-solid {
+  font-size: 30px;
+}
+
+.tarjeta button {
+  border-radius: 5px;
+  border: 0;
+  padding: 10px;
+  background-color: red;
+}
+
+.tarjeta button:hover {
+  background-color: grey;
+}
+
+nav {
+  background-color: grey;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  padding: 10px 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: blue;
+}
+
+footer {
+  background-color: grey;
+  padding: 10px;
+}
+/*# sourceMappingURL=style.css.map */
